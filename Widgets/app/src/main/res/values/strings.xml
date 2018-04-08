@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widgets</string>
+
+    <string name="txtEvents_text">Play with widgets</string>
+    <string name="chk_text">Check box</string>
+
+    <string name="radio_button1">Radio Button 1</string>
+    <string name="radio_button2">Radio Button 2</string>
+    <string name="radio_button3">Radio Button 3</string>
+    <string name="tgbtn_texton">on</string>
+    <string name="tgbtn_textoff">off</string>
+
+
+</resources>
