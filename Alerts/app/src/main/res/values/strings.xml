@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alerts</string>
+    <string name="btn_toast"> Show Toast</string>
+    <string name="btn_dialog"> Show Dilog</string>
+    <string name="btn_notification"> Show Notification</string>
+
+</resources>
